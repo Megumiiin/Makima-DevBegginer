@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bambusem
-- 👀 I’m interested in coding
-- 🌱 I’m not currently learning something 
-- 💞️ I’m not looking to collaborate 
-- 📫 How to reach me fanxyuri.discord@gmail.com
+Name: Unknown Age: Unknown Location: Unknown
+
+Latest news:
+Probably in training right now. Learning about Python, C# and JS.
+My dream job is being an ethical hacker or a pentester, basically something relating to cybersecurity.
